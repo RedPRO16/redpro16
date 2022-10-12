@@ -4,7 +4,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Developer+with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
