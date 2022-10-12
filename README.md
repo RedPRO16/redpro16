@@ -8,6 +8,11 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
 
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+- 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master.
+
+- 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp from Maker Graduate.
+
 - 🔭 I’m currently working on [Otherlink](www.otherlink.io)
 
 - 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3**✌️
@@ -20,7 +25,9 @@
 
 - 📫 How to reach me **nesho1616@gmail.com**
 
-- ⚡ Fun fact **I ❤️ food, traveling around the World**
+- 📝 View my [CV](https://github.com/redpro16/CV)
+
+- ⚡ Fun fact **I ❤️ food,golf,diving and traveling around the World**
 
 <br>
 
