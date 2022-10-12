@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Nesho RADEV</h1>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
 <h3 align="center">A passionate Full stack developer from London,UK 🇬🇧</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 🔭 I’m currently working on [Otherlink](www.otherlink.io)
 
-- 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3 ✌️**
+- 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3**✌️
 
 - 👯 I’m looking to collaborate on [VR solution for Real World Problems and OpenSource 🙂](https://vrsistem.com/en/)
 
