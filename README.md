@@ -1,10 +1,12 @@
+## Welcome to my GitHub profile
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
-<h3 align="center">A passionate Full stack developer from London,UK 🇬🇧</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
 
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
@@ -28,8 +30,6 @@
 - 📝 View my [CV](https://github.com/redpro16/CV)
 
 - ⚡ Fun fact **I ❤️ food,golf,diving and traveling around the World**
-
-<br>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
