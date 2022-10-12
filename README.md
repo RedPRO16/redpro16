@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on [Otherlink](www.otherlink.io)
 
-- 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3**✌️
+- 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3**
 
 - 👯 I’m looking to collaborate on [VR solution for Real World Problems and OpenSource 🙂](https://vrsistem.com/en/)
 
