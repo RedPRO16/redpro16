@@ -3,11 +3,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Nesho RADEV</h1>
 <h3 align="center">A passionate Full stack developer from London,UK 🇬🇧</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
-<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 - 🔭 I’m currently working on [Otherlink](www.otherlink.io)
 
 - 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3 ✌️**
