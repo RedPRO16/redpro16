@@ -1,15 +1,15 @@
 ## Welcome to my GitHub profile
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
 
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
+<p align="center"><img src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/header.png"></p>
+<h1 align="center">Hi, <img src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Developer+with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
 
-<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="450" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/typing_code.gif">
 
 - 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master degree.
 
@@ -34,9 +34,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/redpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="redpro" height="30" width="40" /></a>
-<a href="https://twitter.com/sladur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sladur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nradev" height="30" width="40" /></a>
+<a href="https://codepen.io/redpro" target="blank"><img align="center" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/codepen.svg" alt="redpro" height="30" width="40" /></a>
+<a href="https://twitter.com/sladur" target="blank"><img align="center" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/twitter.svg" alt="sladur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nradev" target="blank"><img align="center" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/linked-in-alt.svg" alt="nradev" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -55,6 +55,6 @@
   <img width="50%" src="https://readme-typing-svg.herokuapp.com/?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"
     alt="motto" /></p>
 <p align="center">
-  <img width="150%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img width="150%" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
