@@ -13,7 +13,7 @@
 
 - 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master degree.
 
-- 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp from Maker Graduate.
+- 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Maker}(https://makers.tech/) Graduate.
 
 - 🔭 I’m currently working on [Otherlink](www.otherlink.io)
 
