@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **nesho1616@gmail.com**
 
-- 📝 View my [CV](https://github.com/redpro16/CV)
+- 📝 View my [GitHub CV](https://github.com/redpro16/CV) and [PDF CV](https://drive.google.com/file/d/13mCUCE_ZGe5ZyPvBtl-psLvWyNUhTdP_/view?usp=sharing)
 
 - ⚡ Fun fact **I ❤️ food,golf,diving and traveling around the World**
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
