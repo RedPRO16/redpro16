@@ -15,7 +15,7 @@
 
 - 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Makers](https://makers.tech/) Graduate.
 
-- 🔭 I’m currently working on [Otherlink](www.otherlink.io)
+- 🔭 I’m currently working on [Otherlink](https://www.otherlink.io/)
 
 - 🌱 I’m currently learning **React, React Native, Javascript, HTML5, CSS3, Python and exploring web3**
 
