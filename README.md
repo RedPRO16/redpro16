@@ -50,10 +50,9 @@
 </p>
 <p align="center"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=redpro16&show_icons=true&locale=en&layout=compact" alt="redpro16"></p>
 
-<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=redpro16&show_icons=true&locale=en&layout=compact" alt="redpro16"></p>
 <h3 align="center">🔥My Motto:</h3>
 <p align="center">
-  <img width="150%" src="https://readme-typing-svg.herokuapp.com/?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"
+  <img width="50%" src="https://readme-typing-svg.herokuapp.com/?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"
     alt="motto" /></p>
 <p align="center">
   <img width="150%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
