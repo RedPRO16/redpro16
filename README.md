@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master.
+- 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master degree.
 
 - 🧑🏿‍💻 Full-Stack Software Engineering Bootcamp from Maker Graduate.
 
@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on [VR solution for Real World Problems and OpenSource 🙂](https://vrsistem.com/en/)
 
-- 👨‍💻 All of my projects are available at [here!👉](https://github.com/RedPRO16?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub👉](https://github.com/RedPRO16?tab=repositories)
 
 - 💬 Ask me about **Web and Finance, Blockchain 😁**
 
@@ -30,6 +30,7 @@
 - 📝 View my [CV](https://github.com/redpro16/CV)
 
 - ⚡ Fun fact **I ❤️ food,golf,diving and traveling around the World**
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -49,8 +50,12 @@
 </p>
 <p align="center"><img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=redpro16&show_icons=true&locale=en&layout=compact" alt="redpro16"></p>
 
+<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=redpro16&show_icons=true&locale=en&layout=compact" alt="redpro16"></p>
+<h3 align="center">🔥My Motto:</h3>
+<p align="center">
+  <img width="150%" src="https://readme-typing-svg.herokuapp.com/?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"
+    alt="motto" /></p>
 <p align="center">
   <img width="150%" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-<p align="center" style="font-size: 60px"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+Top&color=58a6ff&style=flat&logo" alt="back to top" /></a></p>
