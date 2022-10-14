@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" width="450" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/typing_code.gif">
 
-- 🧑🏿‍🎓 Mechanical Engineer Graduate with MBA master degree.
+- 🧑🏿‍🎓 Mechanical Engineer Graduate with International Managment MBA master degree.
 
 - 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Makers](https://makers.tech/) Graduate.
 
