@@ -53,7 +53,4 @@
 <p align="center">
   <img width="50%" src="https://readme-typing-svg.herokuapp.com/?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"
     alt="motto" /></p>
-<p align="center">
-  <img width="150%" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
