@@ -6,13 +6,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Engineer+with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=redpro16&label=Profile%20views&color=0e75b6&style=flat" alt="redpro16" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redpro16" alt="redpro16" /></a> </p>
 
-<img align="right" alt="Coding" width="450" src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/typing_code.gif">
+
 
 - 🧑🏿‍🎓 Mechanical Engineer Graduate with International Managment MBA master degree.
 
 - 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Makers](https://makers.tech/) Graduate.
+ 
+- 🧑🏿‍💻 [Java SDET Tester](https://www.javatpoint.com/sdet-vs-tester) JAVA SDET  Bootcamp from [Cydeo](https://cydeo.com/).
 
 - 🔭 I’m currently working on [Otherlink](https://www.otherlink.io/)
 
