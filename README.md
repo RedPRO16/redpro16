@@ -14,7 +14,7 @@
 - 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Makers](https://makers.tech/) Graduate.
  
 - 🧑🏿‍💻 [Java SDET Tester](https://www.javatpoint.com/software-testing-tutorial) JAVA SDET  Bootcamp from [Cydeo](https://cydeo.com/).
-- 
+ 
 - 🧑🏿‍💻 [Software Tester](https://www.javatpoint.com/sdet-vs-tester) Software Tester Bootcamp from [QA](https://www.qa.com/).
 
 - 🔭 I’m currently working on [Otherlink](https://www.otherlink.io/)
