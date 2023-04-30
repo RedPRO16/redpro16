@@ -1,4 +1,4 @@
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-October_2022-blue)
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-April_2023-blue)
 
 <p align="center"><img src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/header.png"></p>
 <h1 align="center">Hi, <img src="https://github.com/RedPRO16/GitHub_CV/blob/main/CV_Images/Hi.gif" width="30px"> I'm Nesho RADEV</h1>
@@ -13,7 +13,9 @@
 
 - 🧑🏿‍💻 [Full-Stack](https://www.w3schools.com/whatis/whatis_fullstack.asp) Software Engineering Bootcamp from [Makers](https://makers.tech/) Graduate.
  
-- 🧑🏿‍💻 [Java SDET Tester](https://www.javatpoint.com/sdet-vs-tester) JAVA SDET  Bootcamp from [Cydeo](https://cydeo.com/).
+- 🧑🏿‍💻 [Java SDET Tester](https://www.javatpoint.com/software-testing-tutorial) JAVA SDET  Bootcamp from [Cydeo](https://cydeo.com/).
+- 
+- 🧑🏿‍💻 [Software Tester](https://www.javatpoint.com/sdet-vs-tester) Software Tester Bootcamp from [QA](https://www.qa.com/).
 
 - 🔭 I’m currently working on [Otherlink](https://www.otherlink.io/)
 
