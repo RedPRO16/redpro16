@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **nesho.rdv@gmail.com**
 
-- 📝 View my [GitHub CV](https://github.com/redpro16/CV) and [PDF CV](https://github.com/RedPRO16/GitHub_CV/blob/main/Nesho_RADEV_Resume_March-23.pdf)
+- 📝 View my [GitHub CV](https://github.com/redpro16/CV) and [PDF CV](https://github.com/RedPRO16/GitHub_CV/blob/main/Nesho_RADEV_Resume_Sep-23.pdf)
 
 - ⚡ Fun fact **I ❤️ food,golf,diving and traveling around the World**
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
