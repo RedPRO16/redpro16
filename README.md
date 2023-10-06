@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **Web and Finance, Blockchain 😁**
 
-- 📫 How to reach me **nesho1616@gmail.com**
+- 📫 How to reach me **nesho.rdv@gmail.com**
 
 - 📝 View my [GitHub CV](https://github.com/redpro16/CV) and [PDF CV](https://github.com/RedPRO16/GitHub_CV/blob/main/Nesho_RADEV_Resume_March-23.pdf)
 
